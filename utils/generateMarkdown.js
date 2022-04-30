@@ -17,6 +17,10 @@ function generateMarkdown(data) {
 ## Description
 
 ${data.description}
+
+## Usage
+
+${data.usage}
 `;
 }
 

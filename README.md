@@ -1,5 +1,9 @@
-# Harry Potter
+# Read me Generator
 
 ## Description
 
-He was a wizard harry
+it generates a readme
+
+## Usage
+
+use node index and it starts, it generates readmes for other projects
